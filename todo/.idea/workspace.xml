@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2786525-e28a-4a9a-8b7a-06c42d265f40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/androidTest/java/com/inso/todo/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/java/com/inso/todo/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/app/src/test/java/com/inso/todo/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Todo/Todo.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Todo/Todo.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Todo/Todo.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Todo/Todo.xcodeproj/project.xcworkspace/xcuserdata/inso.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Todo/Todo.xcodeproj/xcuserdata/inso.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Todo/Todo/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Todo/Todo/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Todo/Todo/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Todo/Todo/ContentView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Todo/Todo/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Todo/Todo/Preview Content/Preview Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Todo/Todo/TodoApp.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Todo/TodoTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Todo/TodoTests/TodoTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Todo/TodoUITests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Todo/TodoUITests/TodoUITests.swift" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1l8OP4QTdbwWnLJ8BUjHUukaXe9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2786525-e28a-4a9a-8b7a-06c42d265f40" name="Default Changelist" comment="" />
+      <created>1606975223333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606975223333</updated>
+    </task>
+    <servers />
+  </component>
+</project>
