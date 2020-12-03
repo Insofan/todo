@@ -1,0 +1,20 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/todo
+    username: root
+    password: 123456789
+
+#flyway
+flyway:
+  enabled: true
+  encoding: UTF-8
+  locations: classpath:db/migration
+  baseline-on-migrate: true
+  driver: com.mysql.cj.jdbc.Driver
+  url: jdbc:mysql://localhost:3306/todo?characterEncoding=utf8&characterSetResults=utf8&autoReconnect=true&failOverReadOnly=false
+  user: root
+  password: 123456789
